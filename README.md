@@ -8,7 +8,7 @@ The server is not secure and should not be used to store sensitive data.
 ## Response format:
 By default, the server will respond with a JSON object containing the following fields:
 - `error`: A boolean indicating if an error occurred.
-- `message`: A string containing the error message if an error occurred.
+- `message`: A string containing the error or success message.
 
 <br>
 
