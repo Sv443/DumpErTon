@@ -1,7 +1,9 @@
 ## DumpErTon - simple REST file dump server
 Allows anyone to dump and read files to and from the server, given a private authorization token.  
-This project was made to test NestJS and is not intended for production use.  
-The server is not secure and should not be used to store sensitive data.  
+
+> [!IMPORTANT]
+> **This project was made to test NestJS and is not intended for production use.  
+> The server is not secure and should not be used to store sensitive data.**
 
 <br>
 
